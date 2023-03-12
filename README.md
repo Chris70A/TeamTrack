@@ -52,11 +52,15 @@ Handle Employee personnel information and keep tabs on their positions, pay, and
 
 ![alt text](./assets/TeamTrack.gif)
 
+A link to the [Video](https://drive.google.com/file/d/1mjZRqRcb-Ps6qOuaWT0l76YuRv7CgfXQ/view): ``` https://drive.google.com/file/d/1mjZRqRcb-Ps6qOuaWT0l76YuRv7CgfXQ/view```
 
 
-# License
 
-##### MIT License
+
+
+
+
+## MIT License
 
 Copyright (c) 2023 Christian Plasencia
 
@@ -77,11 +81,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-
-
-
-
-
-
