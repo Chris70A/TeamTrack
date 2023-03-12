@@ -7,7 +7,7 @@ const connection = mysql.createConnection({
 
     host: "127.0.0.1", // IP address // on Mac its 127.0.0.1
     user: "root", 
-    password: "",
+    password: "Poncem51!",
     database: "employees" // Name of the database 
 });
 
