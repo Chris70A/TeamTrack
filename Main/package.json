@@ -1,0 +1,25 @@
+{
+  "name": "teamtrack",
+  "version": "1.0.0",
+  "description": "manage a company's employee database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node indexjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris70A/TeamTrack.git"
+  },
+  "author": "christian plasencia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chris70A/TeamTrack/issues"
+  },
+  "homepage": "https://github.com/Chris70A/TeamTrack#readme",
+  "dependencies": {
+    "asciiart-logo": "^0.2.7",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.0"
+  }
+}
